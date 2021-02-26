@@ -1,6 +1,7 @@
-package hello;
+package Canban;
 
-class variable {
+public class Random {
+
 
 	public static void main(String[] args) {
 		int age = 21;// khai bao tuoi
@@ -14,5 +15,7 @@ class variable {
 		int randomNumber = (int)(Math.random()*range )+min;
 		System.out.println("random: "+randomNumber );
 		}
+
+
 
 }
