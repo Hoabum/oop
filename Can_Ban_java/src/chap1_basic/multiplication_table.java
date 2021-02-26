@@ -1,4 +1,4 @@
-package Canban;
+package chap1_basic;
 
 public class multiplication_table {
 
